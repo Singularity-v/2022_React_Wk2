@@ -1,0 +1,38 @@
+[
+    {
+      "id": "1",
+      "imgURL":"image/WebApp.png",
+      "title":"網頁設計、APP設計",
+      "tool":"- Adobe XD -"
+    },
+    {
+        "id": "2",
+        "imgURL":"image/UIUX.png",
+        "title":"UI / UX",
+        "tool":"- Adobe XD -"
+    },
+    {
+        "id": "3",
+        "imgURL":"image/Grafic.png",
+        "title":"平面設計",
+        "tool":"- Adobe XD -"
+    },
+    {
+        "id": "4",
+        "imgURL":"image/Line.jpg",
+        "title":"Line Bot",
+        "tool":"- Python -"
+    },
+    {
+        "id": "5",
+        "imgURL":"image/3D.PNG",
+        "title":"建模作品",
+        "tool":"- Blender -"
+    },
+    {
+        "id": "6",
+        "imgURL":"image/Other.png",
+        "title":"其他",
+        "tool":"- 繪本 -"
+    }
+  ]

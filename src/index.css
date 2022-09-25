@@ -347,10 +347,7 @@ article .row {
   .big_box {
       width:45%;
   }
-  .overlay span {
-      font-size: 0.8em;
-  }
-  .overlay img{
+  .verlay img{
       width:2rem ;
       height: 2rem;
   }
