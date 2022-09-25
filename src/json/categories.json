@@ -3,36 +3,87 @@
       "id": "1",
       "imgURL":"image/WebApp.png",
       "title":"網頁設計、APP設計",
-      "tool":"- Adobe XD -"
+      "tools":[
+        {
+            "tool":"- Adobe XD -"
+        },
+        {
+            "tool":"- Figma -"
+        },
+        {
+            "tool":"- Visual Studio Code -"
+        }            
+      ]
     },
     {
         "id": "2",
         "imgURL":"image/UIUX.png",
         "title":"UI / UX",
-        "tool":"- Adobe XD -"
+        "tools":[
+            {
+                "tool":"- Adobe XD -"
+            },
+            {
+                "tool":"- Figma -"
+            }           
+          ]
     },
     {
         "id": "3",
         "imgURL":"image/Grafic.png",
         "title":"平面設計",
-        "tool":"- Adobe XD -"
+        "tools":[
+            {
+                "tool":"- Adobe Illustrator -"
+            },
+            {
+                "tool":"- Adobe InDesign -"
+            },
+            {
+                "tool":"- Adobe Photoshop -"
+            }              
+          ]
     },
     {
         "id": "4",
         "imgURL":"image/Line.jpg",
         "title":"Line Bot",
-        "tool":"- Python -"
+        "tools":[
+            {
+                "tool":"- Python -"
+            },
+            {
+                "tool":"- Spyder -"
+            }, 
+            {
+                "tool":"- Colab -"
+            }         
+          ]
     },
     {
         "id": "5",
         "imgURL":"image/3D.PNG",
         "title":"建模作品",
-        "tool":"- Blender -"
+        "tools":[
+            {
+                "tool":"- Blender -"
+            },
+            {
+                "tool":"- 3Ds Max -"
+            }           
+          ]
     },
     {
         "id": "6",
         "imgURL":"image/Other.png",
         "title":"其他",
-        "tool":"- 繪本 -"
+        "tools":[
+            {
+                "tool":"- 繪本 -"
+            },
+            {
+                "tool":"- 動畫 -"
+            }           
+          ]
     }
   ]

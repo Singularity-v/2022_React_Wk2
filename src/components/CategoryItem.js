@@ -9,7 +9,12 @@ export default function CategoryItem( { category }) {
                         <div className="overlay">
                             <span className="dot"></span>
                             <div className="category_info">
-                            <span>{category.tool}</span>
+                            {category.tools.map(items => (
+                                <div key={category.id} items={items}>
+                                    <span>{items.tool}</span>
+                                </div>
+                            ))}
+                            {/* <span>{category.tools[0].tool}</span> */}
                             {/* <span>- Figma -</span>
                             <span>- Visual Studio Code -</span> */}
                             </div>
