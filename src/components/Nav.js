@@ -6,13 +6,13 @@ export default function Nav() {
             
             <ul className="navbar-nav col-lg-8 center-nav" >
                 <li className="nav-item">
-                <a className="nav-link" href="#">關於課程</a>
+                <a className="nav-link" href="#">作品牆</a>
                 </li>
                 <li className="nav-item">
                 <a className="nav-link" href="#">關於我</a>
                 </li>
                 <li className="nav-item">
-                <a className="nav-link" href="#">聯絡方式</a>
+                <a className="nav-link" href="#">聯絡我</a>
                 </li>
             </ul>
 
